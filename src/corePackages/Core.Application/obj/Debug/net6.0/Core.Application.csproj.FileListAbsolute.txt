@@ -1,0 +1,57 @@
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.deps.json
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Security.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\refint\Core.Application.dll
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.pdb
+C:\Users\Admin\Desktop\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\ref\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.deps.json
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Security.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\refint\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\RentACarKodlamaio\kodlamaioRentACar\src\corePackages\Core.Application\obj\Debug\net6.0\ref\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.deps.json
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Security.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\refint\Core.Application.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\Core.Application.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Application\obj\Debug\net6.0\ref\Core.Application.dll

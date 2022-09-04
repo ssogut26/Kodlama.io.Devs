@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\bin\Debug\net6.0\Kodlama.io.Devs.Infrastracture.deps.json
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\bin\Debug\net6.0\Kodlama.io.Devs.Infrastracture.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\bin\Debug\net6.0\Kodlama.io.Devs.Infrastracture.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\Kodlama.io.Devs.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\Kodlama.io.Devs.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\Kodlama.io.Devs.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\Kodlama.io.Devs.Infrastracture.AssemblyInfo.cs
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\Kodlama.io.Devs.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\Kodlama.io.Devs.Infrastracture.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\refint\Kodlama.io.Devs.Infrastracture.dll
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\Kodlama.io.Devs.Infrastracture.pdb
+C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\projects\Kodlama.io.Devs.Infrastracture\obj\Debug\net6.0\ref\Kodlama.io.Devs.Infrastracture.dll
