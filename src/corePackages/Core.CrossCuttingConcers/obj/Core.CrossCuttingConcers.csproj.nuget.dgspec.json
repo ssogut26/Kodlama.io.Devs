@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {}
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
         "projectName": "Core.CrossCuttingConcers",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcers.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
             },
             "Microsoft.Extensions.Configuration.Binder": {
               "target": "Package",

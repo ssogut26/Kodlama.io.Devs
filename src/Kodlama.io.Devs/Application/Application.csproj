@@ -7,12 +7,19 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<Folder Include="Features\Technologies\Constants\" />
 		<Folder Include="Features\ProgrammingLanguages\Constants\" />
+		<Folder Include="Features\UserProfiles\Contexts\" />
+		<Folder Include="Features\UserProfiles\Profiles\" />
+		<Folder Include="Features\Users\Contexts\" />
+		<Folder Include="Features\Users\Models\" />
+		<Folder Include="Features\Users\Queries\" />
 	</ItemGroup>
 
 	<ItemGroup>
 		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
 		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.8" />
 	</ItemGroup>
 
 	<ItemGroup>

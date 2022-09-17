@@ -39,7 +39,5 @@ namespace Kodlama.io.Devs.Application.Features.ProgrammingLanguages.Commands.Del
 
             return deletedProgrammingLanguageDto;
         }
-
-
     }
 }

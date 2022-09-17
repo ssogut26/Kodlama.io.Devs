@@ -52,6 +52,5 @@ namespace Kodlama.io.Devs.WebAPI.Controllers
             UpdatedProgrammingLanguageDto result = await Mediator.Send(updateProgrammingLanguageCommand);
             return Created("", result);
         }
-
     }
 }

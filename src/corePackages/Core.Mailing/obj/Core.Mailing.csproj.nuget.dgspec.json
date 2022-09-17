@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {}
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
+    "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "projectUniqueName": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
         "projectName": "Core.Mailing",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder (5)\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\obj\\",
+        "projectPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "packagesPath": "C:\\Users\\Selcuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Selcuk\\Desktop\\MyProjects\\kodlamaioDevs\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Selcuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,6 +43,10 @@
             "MailKit": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",

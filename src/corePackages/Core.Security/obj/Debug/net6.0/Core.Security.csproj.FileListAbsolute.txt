@@ -43,3 +43,18 @@ C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\s
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.pdb
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.deps.json
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.AssemblyReference.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfoInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfo.cs
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CopyComplete
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll

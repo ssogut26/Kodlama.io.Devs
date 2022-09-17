@@ -1,9 +1,11 @@
-﻿using Kodlama.io.Devs.Application.Services.Repositories;
+﻿using Application.Services.Repositories;
+using Kodlama.io.Devs.Application.Services.Repositories;
 using Kodlama.io.Devs.Persistence.Contexts;
 using Kodlama.io.Devs.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Persistence.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +24,10 @@ namespace Persistence
                                                         options.UseSqlServer(
                                                             configuration.GetConnectionString("KodlamaioDevsConnectionString")));
             services.AddScoped<IProgrammingLanguageRepository, ProgrammingLanguageRepository>();
+            services.AddScoped<ITechnologyRepository, TechnologyRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IUserOperationClaimRepository, UserOperationClaimRepository>();
+            services.AddScoped<IUserProfileRepository, UserProfileRepository>();
             return services;
         }
     }

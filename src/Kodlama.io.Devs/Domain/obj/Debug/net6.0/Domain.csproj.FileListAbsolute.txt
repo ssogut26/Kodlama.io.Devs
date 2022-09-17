@@ -13,3 +13,20 @@ C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\s
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Domain\bin\Debug\net6.0\Core.Security.pdb

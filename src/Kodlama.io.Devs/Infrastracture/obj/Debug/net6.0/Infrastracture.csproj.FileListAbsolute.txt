@@ -1,0 +1,12 @@
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\bin\Debug\net6.0\Infrastracture.deps.json
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\bin\Debug\net6.0\Infrastracture.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\bin\Debug\net6.0\Infrastracture.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.AssemblyReference.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\Infrastracture.AssemblyInfo.cs
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\Infrastracture.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\refint\Infrastracture.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\Infrastracture.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Infrastracture\obj\Debug\net6.0\ref\Infrastracture.dll

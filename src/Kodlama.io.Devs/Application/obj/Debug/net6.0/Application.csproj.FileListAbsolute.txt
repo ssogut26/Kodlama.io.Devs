@@ -21,3 +21,26 @@ C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\s
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\refint\Application.dll
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.pdb
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Application.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.Application.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.CrossCuttingConcers.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.Security.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.CrossCuttingConcers.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\bin\Debug\net6.0\Core.Security.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\Kodlama.io.Devs\Application\obj\Debug\net6.0\ref\Application.dll

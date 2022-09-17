@@ -22,3 +22,15 @@ C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\s
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
 C:\Users\Admin\Desktop\New folder (5)\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.deps.json
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\bin\Debug\net6.0\Core.Mailing.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.AssemblyReference.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfoInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.AssemblyInfo.cs
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\refint\Core.Mailing.dll
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\Core.Mailing.pdb
+C:\Users\Selcuk\Desktop\MyProjects\kodlamaioDevs\Kodlama.io.Devs\src\corePackages\Core.Mailing\obj\Debug\net6.0\ref\Core.Mailing.dll
