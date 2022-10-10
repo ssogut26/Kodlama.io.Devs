@@ -1,6 +1,7 @@
 ﻿
 using Application.Features.Users.Dtos;
 using Application.Features.Users.Rules;
+using Application.Services.AuthService;
 using Application.Services.Repositories;
 using AutoMapper;
 using Core.Security.Dtos;
@@ -16,34 +17,42 @@ using System.Threading.Tasks;
 
 namespace Application.Features.Users.Commands.LoginUser
 {
-    public class LoginUserCommand : UserForLoginDto, IRequest<AccessToken>
+    public class LoginUserCommand : UserForLoginDto, IRequest<LoggedInDto>
     {
-        public class LoginUserCommandHandler : IRequestHandler<LoginUserCommand, AccessToken>
+        public UserForLoginDto UserForLoginDto { get; set; }
+        public string IpAddress { get; set; }
+        public class LoginUserCommandHandler : IRequestHandler<LoginUserCommand, LoggedInDto>
         {
             private readonly IUserRepository _userRepository;
-            private readonly IMapper _mapper;
+            private readonly IAuthService _authService;
             private readonly ITokenHelper _tokenHelper;
             private readonly UserBusinessRules _userBusinessRules;
 
-            public LoginUserCommandHandler(IUserRepository userRepository, IMapper mapper, ITokenHelper tokenHelper, UserBusinessRules userBusinessRules)
+            public LoginUserCommandHandler(IAuthService authService, IUserRepository userRepository, IMapper mapper, ITokenHelper tokenHelper, UserBusinessRules userBusinessRules)
             {
                 _userRepository = userRepository;
-                _mapper = mapper;
+                _authService = authService;
                 _tokenHelper = tokenHelper;
                 _userBusinessRules = userBusinessRules;
             }
 
-            public async Task<AccessToken> Handle(LoginUserCommand request, CancellationToken cancellationToken)
+            public async Task<LoggedInDto> Handle(LoginUserCommand request, CancellationToken cancellationToken)
             {
 
-                var user = await _userRepository.GetAsync(u => u.Email == request.Email);
+                var user = await _userRepository.GetAsync(u => u.Email == request.UserForLoginDto.Email);
                 _userBusinessRules.UserShouldExist(user);
+                _userBusinessRules.UserCredentialsMustMatch(request.UserForLoginDto.Password, user.PasswordHash, user.PasswordSalt);
 
-                _userBusinessRules.UserCredentialsMustMatch(request.Password, user.PasswordHash, user.PasswordSalt);
+                AccessToken createdAccessToken = await _authService.CreateAccessToken(user);
+                RefreshToken createdRefreshToken = await _authService.CreateRefreshToken(user, request.IpAddress);
+                RefreshToken addedRefreshToken = await _authService.AddRefreshToken(createdRefreshToken);
 
-                var userClaims = _userRepository.GetClaims(user);
-                var accessToken = _tokenHelper.CreateToken(user, userClaims);
-                return accessToken;
+                LoggedInDto loggedInDto = new()
+                {
+                    AccessToken = createdAccessToken,
+                    RefreshToken = createdRefreshToken,
+                };
+                return loggedInDto;
             }
         }
     }

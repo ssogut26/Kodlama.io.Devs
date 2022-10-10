@@ -30,7 +30,7 @@ namespace Application.Features.Users.Rules
 
         public void UserShouldExist(User user)
         {
-            if (user == null) throw new BusinessException("Uer does not exist.");
+            if (user == null) throw new BusinessException("User does not exist.");
         }
 
         public void UserCredentialsMustMatch(string password, byte[] passwordHash, byte[] passwordSalt)

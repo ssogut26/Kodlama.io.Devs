@@ -21,6 +21,7 @@ namespace Application.Features.Users.Profiles
             CreateMap<UserTokenDto, AccessToken>().ReverseMap();
             CreateMap<User, UserForRegisterDto>().ReverseMap();
             CreateMap<User, AccessToken>().ReverseMap();
+            CreateMap<RefreshToken, RefreshToken>().ReverseMap();
         }
     }
 }
