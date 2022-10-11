@@ -7,6 +7,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<Folder Include="Features\OperationClaims\Commands\DeleteOperationClaim\" />
 		<Folder Include="Features\Technologies\Constants\" />
 		<Folder Include="Features\ProgrammingLanguages\Constants\" />
 		<Folder Include="Features\UserProfiles\Contexts\" />
