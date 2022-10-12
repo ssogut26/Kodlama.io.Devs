@@ -1,4 +1,5 @@
 ﻿using Application.Features.OperationClaims.Models;
+using Application.Features.OperationClaims.Dtos;
 using Application.Services.Repositories;
 using AutoMapper;
 using Core.Application.Requests;
@@ -16,24 +17,29 @@ namespace Application.Features.OperationClaims.Queries
     public class GetListOperationClaimQuery : IRequest<OperationClaimListModel>
     {
         public PageRequest PageRequest { get; set; }
-        public class GetListOperationClaimsQueryHandler : IRequestHandler<GetListOperationClaimQuery, OperationClaimListModel>
+
+        public class
+            GetListOperationClaimQueryHandler : IRequestHandler<GetListOperationClaimQuery, OperationClaimListModel>
         {
             private readonly IOperationClaimRepository _operationClaimRepository;
             private readonly IMapper _mapper;
 
-            public GetListOperationClaimsQueryHandler(IOperationClaimRepository operationClaimRepository, IMapper mapper)
+            public GetListOperationClaimQueryHandler(IOperationClaimRepository operationClaimRepository, IMapper mapper)
             {
                 _operationClaimRepository = operationClaimRepository;
                 _mapper = mapper;
             }
 
-            public async Task<OperationClaimListModel> Handle(GetListOperationClaimQuery request, CancellationToken cancellationToken)
+            public async Task<OperationClaimListModel> Handle(GetListOperationClaimQuery request,
+                                                              CancellationToken cancellationToken)
             {
-                var models = await _operationClaimRepository.GetListAsync(index: request.PageRequest.Page, size: request.PageRequest.PageSize);
-                var result = _mapper.Map<OperationClaimListModel>(models);
-                return result;
+                IPaginate<OperationClaim> operationClaims = await _operationClaimRepository.GetListAsync(
+                                                                index: request.PageRequest.Page,
+                                                                size: request.PageRequest.PageSize);
+                OperationClaimListModel mappedOperationClaimListModel =
+                    _mapper.Map<OperationClaimListModel>(operationClaims);
+                return mappedOperationClaimListModel;
             }
         }
     }
 }
-
